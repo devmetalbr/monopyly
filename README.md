@@ -8,3 +8,5 @@
 `cd monopyly`
 
 `python3 monopyly.py`
+
+[![asciicast](https://asciinema.org/a/Njvm3GinnEpHVafhUJ3qB10FM.svg)](https://asciinema.org/a/Njvm3GinnEpHVafhUJ3qB10FM)(https://asciinema.org/a/Njvm3GinnEpHVafhUJ3qB10FM)
